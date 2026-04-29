@@ -4,7 +4,7 @@ A mobile-first Progressive Web App for tracking daily habits and building streak
 
 ## Project Overview
 
-Habit Tracker is a Stage 3 implementation following the Technical Requirements Document. It allows users to sign up, log in, create/edit/delete daily habits, mark them complete, and view streaks — all persisted to `localStorage`. The app is installable as a PWA and serves a cached app shell offline.
+Habit Tracker allows users to sign up, log in, create/edit/delete daily habits, mark them complete, and view streaks — all persisted to `localStorage`. The app is installable as a PWA and serves a cached app shell offline.s
 
 ---
 
